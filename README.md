@@ -1,4 +1,4 @@
-# Insurance_Dashboard_Power-BI
+# Insurance-Dashboard-PowerBI
 
 ## Overview
 This project presents an interactive Power BI dashboard built using insurance data. The dashboard provides insightful visualizations and key performance indicators (KPIs) to analyze various aspects of the insurance industry, including customer demographics, claim trends, and policy distributions.
