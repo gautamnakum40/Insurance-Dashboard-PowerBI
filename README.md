@@ -21,10 +21,17 @@ The primary goal of this project is to transform raw insurance data into meaning
 
 ## Tools and Technologies Used
 
-- Power BI: For data visualization and dashboard creation
-- Excel/CSV: For data storage and processing
-- Power Query: For data transformation and cleaning
-- ETL: Data was extracted, transformed, and loaded into Power BI for analysis.  
+- **Power BI**: All data visualizations, including interactive dashboards and analytical reports, are built in Power BI to present insights effectively.
+  
+- **Excel/CSV**: For data storage and processing.
+  
+- **Power Query**: Applied for data transformation, cleaning, and structuring before analysis.
+  
+- **ETL**: Data was extracted, transformed, and loaded into Power BI for analysis.
+  
+- **Git & GitHub**: Used for version control, project tracking, and sharing SQL queries. Git LFS is implemented to handle large CSV files in the dataset.
+
+ - **DAX & Time Intelligence**: Used DAX functions and calendar tables for advanced analytics.  
 
 ## Skills Demonstrated
 
